@@ -158,3 +158,5 @@ curl -X POST http://localhost:3000/api/categories \
   -H "Content-Type: application/json" \
   -d '{"name": "Aksesoris", "slug": "aksesoris"}'
 ```
+  
+# by.naise  
